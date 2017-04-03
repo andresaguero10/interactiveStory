@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  InteractiveStory
 //
-//  Created by Andres Aguero on 3/29/17.
-//  Copyright © 2017 Andres Aguero. All rights reserved.
+//  Created by Screencast on 1/9/17.
+//  Copyright © 2017 Treehouse Island. All rights reserved.
 //
 
 import UIKit
